@@ -1,10 +1,5 @@
-# First, create five folders in your Download folder and name them as Downloaded Images,
-# Downloaded Documents, Downloaded Software and Log (It will just contain a single file
-# named log.txt which will be the output of our script)
-# Usage method 1: Open the terminal, go to the Download directory and run the following command:
-# python3 FolderOrganizer.py >>~/Downloads/Log/log.txt
-# Usage method 2:
-# You can freely change the script to suit your desired behaviour
+# FolderOrganizer.py
+# How to use instructions are located in the README.md file in the script's repository
 import os
 from shutil import move
 
