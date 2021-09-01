@@ -1,5 +1,5 @@
 # FolderOrganizer - A beginner level Python script
-A small script to organize a folder into subfolders by file types. It is, in fact, my first script in Python.
+A small script to organize a folder into subfolders by file types. It is, in fact, my first script in Python. Created for my personal use and shared for education purposes.
 
 
 ## How to use
