@@ -13,7 +13,7 @@ Created for my personal use and shared for education purposes.
 
 1. Open the terminal, go to the Download directory and run the following command:
     
-    python3 FolderOrganizer.py >>~/Downloads/Log/log.txt
+    `python3 FolderOrganizer.py >>~/Downloads/Log/log.txt`
 
 The script was largely based on [nitish-dev-1503's version of the script](https://github.com/nitish-dev-1503/Organize-Download-Files), modified a little to suite my personal needs.
 
