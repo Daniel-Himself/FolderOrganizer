@@ -22,7 +22,7 @@ def get_non_hidden_files_except_current_file(root_dir):
             if os.path.isfile(f) and not f.startswith('.') and not f.__eq__(__file__)]
 
 
-# Takes the list of files and moves them to there respective folders
+# Takes the list of files and moves them to their newly assigned folders
 def move_files(files):
     for file in files:
         # file moved and overwritten if already exists
