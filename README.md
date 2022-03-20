@@ -7,7 +7,7 @@ Created for my personal use and shared for education purposes.
 ## How to use
 1. In the script itself, make sure to change my predefined downloads directory location to your own.
 
-1. Then, create five folders in your Download folder and name them as Downloaded Images, Downloaded Documents, Downloaded Software and Log (It will just contain a single file named log.txt which will be the output of our script).
+1. Then, create four folders in your Download folder and name them as Downloaded Images, Downloaded Documents, Downloaded Software and Log (It will just contain a single file named log.txt which will be the output of our script).
 
 1. Place the .py in the unorganized directory (Downloads is the one I use)
 
